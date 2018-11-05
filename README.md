@@ -29,15 +29,16 @@ All checkpoints will be graded as follows:
 * Critical discussion (40%): Critical comparison of different algorithms for the same task. Identify the advantages of each method. Clearly identify bottlenecks and suggest possible improvements.
 
 ### 22 October – Project
+
+### 29 October – [Tutorial 4: Graph method - Label Propagation](./labs/Websearch_2018_lab4.ipynb)
+
+### 5 November – [Tutorial 5: Multi-Feature Label Propagation](./labs/Websearch_2018_lab5.ipynb)
 Checkpoint 1 discussions.
 
-### 29 October – [Tutorial 4: Graph method](./labs/Websearch_2018_lab4.ipynb)
-
-### 5 November - Project
-
 ### 12 November - Project: Finalize checkpoint 2 report
+Checkpoint 1 discussions.
 
-### 19 November – [Tutorial 5: Cross-modal retrieval](./labs/Websearch_2018_lab5.ipynb)
+### 19 November – [Tutorial 5: Cross-modal retrieval](./labs/Websearch_2018_lab.ipynb)
 
 ### 26 November – Project
 Checkpoint 2 discussions.
